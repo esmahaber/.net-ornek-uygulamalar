@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\checkerboard\checkerboard\bin\Debug\checkerboard.exe.config
+C:\Users\ACER\source\repos\checkerboard\checkerboard\bin\Debug\checkerboard.exe
+C:\Users\ACER\source\repos\checkerboard\checkerboard\bin\Debug\checkerboard.pdb
+C:\Users\ACER\source\repos\checkerboard\checkerboard\obj\Debug\checkerboard.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\checkerboard\checkerboard\obj\Debug\checkerboard.Form1.resources
+C:\Users\ACER\source\repos\checkerboard\checkerboard\obj\Debug\checkerboard.Properties.Resources.resources
+C:\Users\ACER\source\repos\checkerboard\checkerboard\obj\Debug\checkerboard.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\checkerboard\checkerboard\obj\Debug\checkerboard.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\checkerboard\checkerboard\obj\Debug\checkerboard.exe
+C:\Users\ACER\source\repos\checkerboard\checkerboard\obj\Debug\checkerboard.pdb
