@@ -1,0 +1,12 @@
+C:\Users\ACER\source\repos\Rehber_Uygulamasi\Rehber_Uygulamasi\bin\Debug\Rehber_Uygulamasi.exe.config
+C:\Users\ACER\source\repos\Rehber_Uygulamasi\Rehber_Uygulamasi\bin\Debug\Rehber_Uygulamasi.exe
+C:\Users\ACER\source\repos\Rehber_Uygulamasi\Rehber_Uygulamasi\bin\Debug\Rehber_Uygulamasi.pdb
+C:\Users\ACER\source\repos\Rehber_Uygulamasi\Rehber_Uygulamasi\obj\Debug\Rehber_Uygulamasi.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Rehber_Uygulamasi\Rehber_Uygulamasi\obj\Debug\Rehber_Uygulamasi.Form1.resources
+C:\Users\ACER\source\repos\Rehber_Uygulamasi\Rehber_Uygulamasi\obj\Debug\Rehber_Uygulamasi.KisiEkle.resources
+C:\Users\ACER\source\repos\Rehber_Uygulamasi\Rehber_Uygulamasi\obj\Debug\Rehber_Uygulamasi.Properties.Resources.resources
+C:\Users\ACER\source\repos\Rehber_Uygulamasi\Rehber_Uygulamasi\obj\Debug\Rehber_Uygulamasi.Rehber.resources
+C:\Users\ACER\source\repos\Rehber_Uygulamasi\Rehber_Uygulamasi\obj\Debug\Rehber_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Rehber_Uygulamasi\Rehber_Uygulamasi\obj\Debug\Rehber_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Rehber_Uygulamasi\Rehber_Uygulamasi\obj\Debug\Rehber_Uygulamasi.exe
+C:\Users\ACER\source\repos\Rehber_Uygulamasi\Rehber_Uygulamasi\obj\Debug\Rehber_Uygulamasi.pdb
