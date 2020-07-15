@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\Koordinat_Hareketleri\Koordinat_Hareketleri\bin\Debug\Koordinat_Hareketleri.exe.config
+C:\Users\ACER\source\repos\Koordinat_Hareketleri\Koordinat_Hareketleri\bin\Debug\Koordinat_Hareketleri.exe
+C:\Users\ACER\source\repos\Koordinat_Hareketleri\Koordinat_Hareketleri\bin\Debug\Koordinat_Hareketleri.pdb
+C:\Users\ACER\source\repos\Koordinat_Hareketleri\Koordinat_Hareketleri\obj\Debug\Koordinat_Hareketleri.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Koordinat_Hareketleri\Koordinat_Hareketleri\obj\Debug\Koordinat_Hareketleri.Form1.resources
+C:\Users\ACER\source\repos\Koordinat_Hareketleri\Koordinat_Hareketleri\obj\Debug\Koordinat_Hareketleri.Properties.Resources.resources
+C:\Users\ACER\source\repos\Koordinat_Hareketleri\Koordinat_Hareketleri\obj\Debug\Koordinat_Hareketleri.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Koordinat_Hareketleri\Koordinat_Hareketleri\obj\Debug\Koordinat_Hareketleri.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Koordinat_Hareketleri\Koordinat_Hareketleri\obj\Debug\Koordinat_Hareketleri.exe
+C:\Users\ACER\source\repos\Koordinat_Hareketleri\Koordinat_Hareketleri\obj\Debug\Koordinat_Hareketleri.pdb
