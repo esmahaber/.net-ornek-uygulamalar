@@ -1,0 +1,12 @@
+C:\Users\ACER\source\repos\NotKayit\NotKayit\bin\Debug\NotKayit.exe.config
+C:\Users\ACER\source\repos\NotKayit\NotKayit\bin\Debug\NotKayit.exe
+C:\Users\ACER\source\repos\NotKayit\NotKayit\bin\Debug\NotKayit.pdb
+C:\Users\ACER\source\repos\NotKayit\NotKayit\obj\Debug\NotKayit.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\NotKayit\NotKayit\obj\Debug\NotKayit.FrmGiris.resources
+C:\Users\ACER\source\repos\NotKayit\NotKayit\obj\Debug\NotKayit.FrmOgrenciDetay.resources
+C:\Users\ACER\source\repos\NotKayit\NotKayit\obj\Debug\NotKayit.FrmOgretmenDetay.resources
+C:\Users\ACER\source\repos\NotKayit\NotKayit\obj\Debug\NotKayit.Properties.Resources.resources
+C:\Users\ACER\source\repos\NotKayit\NotKayit\obj\Debug\NotKayit.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\NotKayit\NotKayit\obj\Debug\NotKayit.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\NotKayit\NotKayit\obj\Debug\NotKayit.exe
+C:\Users\ACER\source\repos\NotKayit\NotKayit\obj\Debug\NotKayit.pdb
