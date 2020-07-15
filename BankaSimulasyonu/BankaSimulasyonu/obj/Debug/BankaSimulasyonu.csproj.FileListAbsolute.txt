@@ -1,0 +1,13 @@
+C:\Users\ACER\source\repos\BankaSimulasyonu\BankaSimulasyonu\bin\Debug\BankaSimulasyonu.exe.config
+C:\Users\ACER\source\repos\BankaSimulasyonu\BankaSimulasyonu\bin\Debug\BankaSimulasyonu.exe
+C:\Users\ACER\source\repos\BankaSimulasyonu\BankaSimulasyonu\bin\Debug\BankaSimulasyonu.pdb
+C:\Users\ACER\source\repos\BankaSimulasyonu\BankaSimulasyonu\obj\Debug\BankaSimulasyonu.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\BankaSimulasyonu\BankaSimulasyonu\obj\Debug\BankaSimulasyonu.Anasayfa.resources
+C:\Users\ACER\source\repos\BankaSimulasyonu\BankaSimulasyonu\obj\Debug\BankaSimulasyonu.Form1.resources
+C:\Users\ACER\source\repos\BankaSimulasyonu\BankaSimulasyonu\obj\Debug\BankaSimulasyonu.KayitOl.resources
+C:\Users\ACER\source\repos\BankaSimulasyonu\BankaSimulasyonu\obj\Debug\BankaSimulasyonu.Properties.Resources.resources
+C:\Users\ACER\source\repos\BankaSimulasyonu\BankaSimulasyonu\obj\Debug\BankaSimulasyonu.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\BankaSimulasyonu\BankaSimulasyonu\obj\Debug\BankaSimulasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\BankaSimulasyonu\BankaSimulasyonu\obj\Debug\BankaSimulasyonu.exe
+C:\Users\ACER\source\repos\BankaSimulasyonu\BankaSimulasyonu\obj\Debug\BankaSimulasyonu.pdb
+C:\Users\ACER\source\repos\BankaSimulasyonu\BankaSimulasyonu\obj\Debug\BankaSimulasyonu.GecmisHareketler.resources
