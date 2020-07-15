@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\Veri_Sifreleme\Veri_Sifreleme\bin\Debug\Veri_Sifreleme.exe.config
+C:\Users\ACER\source\repos\Veri_Sifreleme\Veri_Sifreleme\bin\Debug\Veri_Sifreleme.exe
+C:\Users\ACER\source\repos\Veri_Sifreleme\Veri_Sifreleme\bin\Debug\Veri_Sifreleme.pdb
+C:\Users\ACER\source\repos\Veri_Sifreleme\Veri_Sifreleme\obj\Debug\Veri_Sifreleme.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Veri_Sifreleme\Veri_Sifreleme\obj\Debug\Veri_Sifreleme.Form1.resources
+C:\Users\ACER\source\repos\Veri_Sifreleme\Veri_Sifreleme\obj\Debug\Veri_Sifreleme.Properties.Resources.resources
+C:\Users\ACER\source\repos\Veri_Sifreleme\Veri_Sifreleme\obj\Debug\Veri_Sifreleme.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Veri_Sifreleme\Veri_Sifreleme\obj\Debug\Veri_Sifreleme.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Veri_Sifreleme\Veri_Sifreleme\obj\Debug\Veri_Sifreleme.exe
+C:\Users\ACER\source\repos\Veri_Sifreleme\Veri_Sifreleme\obj\Debug\Veri_Sifreleme.pdb
